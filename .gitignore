@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+.expo
+
+#model files
+group1-shard.bin
+model.json
+
+.ipynb_checkpoints
